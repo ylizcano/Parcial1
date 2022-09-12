@@ -8,7 +8,7 @@ Este comando permite ir a la carpeta destino.\
 Elimina los ejecutables creados en make para evitar posibles errores. \
 \
 **Make all** \
-Crea los ejecutables necesarios para su funcionamiento. \ 
+Crea los ejecutables necesarios para su funcionamiento. \
 \
 **./lanzador.pl** \
 Se ejecuta el lanzador el cual dará un informe de los tiempos de ejecución.
