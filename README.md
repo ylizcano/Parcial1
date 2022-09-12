@@ -1,5 +1,5 @@
 # Parcial1
-Se abre la terminal en la cual se ejecutan los siguientes comandos:/
+Se abre la terminal en la cual se ejecutan los siguientes comandos: /
 (/home/yeison/Documentos/benchmark/Bench_serie),
 este comando permite ir a la carpeta destino.
 (make clean)
