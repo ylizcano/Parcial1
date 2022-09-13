@@ -2,7 +2,7 @@
 
 =begin
 Fecha: 26 - 08 - 2022
-Autor: Juan Diego Varon
+Autor: Yeison Lizcano
 Tema: automatizacion de bateria de experimentos
 Materia: computacion paralela y distribuida
 Requerimientos:
